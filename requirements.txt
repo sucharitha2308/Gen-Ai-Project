@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+nltk
+chromadb
+sentence-transformers
+flask-sqlalchemy
+flask-login
